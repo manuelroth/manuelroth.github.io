@@ -1,0 +1,16 @@
+# Site settings
+title: Manuel Roth's Resume
+email: manuelroth@hotmail.ch
+description: This is the resume page of Manuel Roth
+baseurl: ""
+url: "https://github.com/manuelroth/manuelroth.github.io"
+name: Manuel Roth
+job: Software Engineer
+location: Switzerland
+languages: HTML, CSS and Javascript
+twitter_username: "mrothh"
+github_username:  "manuelroth"
+email_address: "manuelroth@hotmail.ch"
+
+# Build settings
+markdown: kramdown
