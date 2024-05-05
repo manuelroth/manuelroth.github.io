@@ -5,7 +5,7 @@
             <p class="intro__main">My name is <span>{{ site.name }}</span>, a {{ site.job }} from Switzerland</p>
         </div>
 
-        {{ if site.github_username or site.twitter_username or site.email_address }}
+        {{ if site.github_username or site.email_address }}
         <div class="social">
             {{ if site.linkedin_username }}<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">LinkedIn</a>{{ endif }}
             <a rel="me" href="https://mastodon.world/@manuelroth">Mastodon</a>
